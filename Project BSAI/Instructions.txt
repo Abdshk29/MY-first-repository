@@ -1,0 +1,4 @@
+Choose any Number Between 1 to 25.
+Player One and Player Two Choose a Number In Their Respective Turns.
+Both Players Will Keep Entering the Numbers Until One Player Wins.
+
